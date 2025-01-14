@@ -30,9 +30,3 @@ This project is a simple, static website for showcasing BMW M Series cars. The w
 
 ### Contact
 - Provides a contact form for users to send messages with their name, email, subject, and message.
-
-## Scripts
-
-### Intersection Observer
-- Used to handle the visibility of the video element on the home section.
-- Pauses the video when it is not in view and plays it when it is in view.
